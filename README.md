@@ -1,2 +1,1 @@
-# hello_world
-This repository is for practicing the GitHub Flow.
+I am a creative and curious person who is learning to become a data analyst.
